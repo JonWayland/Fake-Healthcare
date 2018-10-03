@@ -1,2 +1,7 @@
 # Fake-Healthcare
 Fictional healthcare data that has known utilization, condition, and cost relationships
+
+## Schema:
+<li>
+TEST
+</li>
