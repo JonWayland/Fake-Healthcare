@@ -1,0 +1,1 @@
+Using OCR and teaseract.
