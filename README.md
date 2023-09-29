@@ -1,7 +1,7 @@
-![Fake Healthcare](https://github.com/JonWayland/Fake-Healthcare/blob/master/images/cartoon_doctor.png)
-
 # Fake-Healthcare
 Fictional healthcare data that has known utilization, condition, and cost relationships
+
+![Fake Healthcare](https://github.com/JonWayland/Fake-Healthcare/blob/master/images/cartoon_doctor.png)
 
 ## Schema:
 <ul>
