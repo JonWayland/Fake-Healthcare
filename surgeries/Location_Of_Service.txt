@@ -1,0 +1,8 @@
+"LOS_DESCR" "LOS_CODE"
+"Emergency Room" "23"
+"Outpatient" "22"
+"Inpatient" "21"
+"Professional" "11"
+"Urgent Care" "20"
+"Hospice" "34"
+"Telehealth" "02"
